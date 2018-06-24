@@ -16,9 +16,9 @@ const styles = {
         height: 60,
         backgroundColor: '#f8f8f8',
         shadowColor: '#000',
-        shadowOffset: {width: 0, height: 20},
+        shadowOffset: {width: 0, height: 2},
         shadowOpacity: 0.5,
-        elevation: 2,
+        elevation: 1,
         position: 'relative',
     },
     textStyle: {
