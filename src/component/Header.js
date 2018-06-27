@@ -11,6 +11,7 @@ export default  Header = (props) => {
 
 const styles = {
     viewStyle: {
+        flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
         height: 60,
